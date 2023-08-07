@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Funtoco Kintone Chrome拡張",
+  "version": "1.0",
+
+  "permissions": ["storage", "activeTab"],
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://funtoco.cybozu.com/k/5/edit"],
+      "js": ["username_input.js"]
+    }
+  ]
+}
