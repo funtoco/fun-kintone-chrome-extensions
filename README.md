@@ -20,6 +20,3 @@
 ![image](https://github.com/funtoco/fun-kintone-chrome-extensions/assets/17454725/e65a5d1a-992e-40e6-b306-e187a1abce19)
 
 - ユーザー名を入力して、Save。これで自動的に入力されるようになります
-
-![image](https://github.com/funtoco/fun-kintone-chrome-extensions/assets/17454725/90f5202a-9c7e-4e3e-a599-913e595e444c)
-
