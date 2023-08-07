@@ -17,6 +17,6 @@
 - 上記インストールしたChrome拡張が表示されているのでピン留め、メニューで表示されるようになります
 
 ![image](https://github.com/funtoco/fun-kintone-chrome-extensions/assets/17454725/51818376-7b94-47b4-bd4d-d6607c772573)
-![image](https://github.com/funtoco/fun-kintone-chrome-extensions/assets/17454725/e65a5d1a-992e-40e6-b306-e187a1abce19)
+![image](https://github.com/funtoco/fun-kintone-chrome-extensions/assets/17454725/b10a9535-e99b-414b-852c-351f3dc4c48c)
 
 - ユーザー名を入力して、Save。これで自動的に入力されるようになります
