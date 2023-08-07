@@ -3,7 +3,7 @@
 ## インストール方法
 ブラウザをChrome利用していることを前提としています。
 
-- zipをDLする
+- https://github.com/funtoco/fun-kintone-chrome-extensions/releases から最新バージョンをzipをDLする
 - DLしたフォルダをどこかに解凍・展開する
 - chrome://extensions/ を開き右上のデベロッパーモードをOnにする
 - 「パッケージ化されていない拡張機能を読み込む」を押し、先ほど解凍したフォルダを選択
